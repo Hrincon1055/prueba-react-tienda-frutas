@@ -13,13 +13,6 @@ export const LoginPage = () => {
     });
   };
   return (
-    // <div classNameName='container mt-5'>
-    //   <h1>Login</h1>
-    //   <hr />
-    //   <button classNameName='btn btn-primary' onClick={onLogin}>
-    //     Login
-    //   </button>
-    // </div>
     <div className='d-flex align-items-center justify-content-center pt-5'>
       <main className='form-signin w-25'>
         <form>
